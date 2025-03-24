@@ -12,10 +12,8 @@
 - Conducted AI/ML research, developed machine learning projects, and prepared detailed reports.
 
 ## 📈 Projects
-### 🔎 Suicide Detection Model
-- Designed a machine learning model to analyze text data and identify signs of suicide risk.  
-- Performed data preprocessing, text tokenization, and sentiment analysis using NLP techniques.  
-- Evaluated model accuracy and fine-tuned hyperparameters for optimal results.
+### 🔎 Laptop Price Predictor
+-This project is a Laptop Price Predictor built using Machine Learning. The application predicts laptop prices based on various features such as brand, processor, RAM, storage, and more. The model has been deployed using Streamlit for a user-friendly web interface.
 
 ### 🩺 Chest X-Ray Disease Detector
 - Created a deep learning model to detect diseases in chest X-ray images using convolutional neural networks (CNNs).  
